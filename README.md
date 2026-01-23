@@ -37,4 +37,4 @@ This project is a Python program that maps an **mRNA codon** to its correspondin
 3. Run the Python script:
 
 ```bash
-python codon_visual.py
+python dsaproject.py
