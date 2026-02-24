@@ -14,6 +14,9 @@ This project is a Python program that maps an **mRNA codon** to its correspondin
   - Highlights nodes sequentially during traversal.
   - Shows which node matches the input codon (green) or displays "not found" (red).
 
+![image](https://github.com/user-attachments/assets/481e6669-96ae-4b53-9430-da59aebbaae3)
+
+
 ---
 
 ## How it Works
